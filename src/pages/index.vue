@@ -1,6 +1,7 @@
-
 <template>
-    <img alt="Vue logo" src="./../assets/logo.png" />
+    <div class="img">
+        <img alt="Vue logo" src="./../assets/logo.png" />
+    </div>
     <UsePinia msg="14124" v-model:selectValue="region" @selectAge="age1" />
     <br />
     <el-row class="mb-4">
@@ -45,3 +46,9 @@ watch(
     }
 );
 </script>
+<style>
+.img{
+    width: 100%;
+    height: 400px;
+}
+</style>

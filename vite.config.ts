@@ -10,12 +10,23 @@ import {
     ElementUiResolver
 } from 'unplugin-vue-components/resolvers'
 import AutoImport from 'unplugin-auto-import/vite'
+import postCssPxToRem from "postcss-pxtorem";
 // https://vitejs.dev/config/
 export default defineConfig({
     resolve: {
         //设置别名
         alias: {
             '@': path.resolve(__dirname, 'src')
+        }
+    },
+    css: {
+        postcss: {
+            plugins: [
+                postCssPxToRem({
+                    rootValue: 19.2, // （设计稿/10）1rem的大小
+                    propList: ['*'], // 需要转换的属性，这里选择全部都进行转换
+                })
+            ]
         }
     },
     plugins: [
