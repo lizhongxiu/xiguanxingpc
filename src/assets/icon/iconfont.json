@@ -1,0 +1,121 @@
+{
+  "id": "2789579",
+  "name": "rope-skip-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "289741",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1693289",
+      "name": "课程管理",
+      "font_class": "kecheng",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "4565922",
+      "name": "账号设置",
+      "font_class": "zhanghaoshezhi",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "4772240",
+      "name": "设置管理",
+      "font_class": "shezhiguanli",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7595543",
+      "name": "发现管理",
+      "font_class": "faxianguanli",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "8019797",
+      "name": "创建小队",
+      "font_class": "chuangjianxiaodui",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "9428429",
+      "name": "系统管理员",
+      "font_class": "xitong",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "12156081",
+      "name": "收支管理",
+      "font_class": "shouzhiguanli",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13360832",
+      "name": "方案管理",
+      "font_class": "fanganguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "14597481",
+      "name": "商品管理",
+      "font_class": "shangpingouwudai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16081640",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "20032554",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "21262457",
+      "name": "赛事管理",
+      "font_class": "saishiguanli",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "21559700",
+      "name": "客服激励管理",
+      "font_class": "kefujiliguanli",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "22345966",
+      "name": "数据分析",
+      "font_class": "fenxi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "23714021",
+      "name": "服务评价-客服",
+      "font_class": "kefu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

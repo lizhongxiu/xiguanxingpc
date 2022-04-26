@@ -1,0 +1,13 @@
+@import 'node_modules/vxe-table/styles/variable';
+
+// 局部修改变量
+$vxe-font-size: 12px;
+$vxe-table-font-color: #000000;
+$vxe-table-border-color: #d8d8d8;
+$vxe-table-row-height-default: 40px;
+
+.vxe-table--tooltip-wrapper {
+  z-index: 9999 !important;
+}
+
+@import 'node_modules/vxe-table/styles/modules';
